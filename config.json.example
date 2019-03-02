@@ -1,0 +1,25 @@
+{
+  "DEV": {
+    "db_host" : "ADD_DB_HOST",
+    "db_port" : "5432",
+    "db_name" : "ADD_DB_NAME",
+    "db_user" : "ADD_YOUR_LOGIN",
+    "db_pswd" : "ADD_YOU_PASSWORD"
+  },
+
+  "UAT": {
+    "db_host" : "ADD_DB_HOST",
+    "db_port" : "5432",
+    "db_name" : "ADD_DB_NAME",
+    "db_user" : "ADD_YOUR_LOGIN",
+    "db_pswd" : "ADD_YOU_PASSWORD"
+  },
+
+  "LOCALHOST" : {
+    "db_host" : "localhost",
+    "db_port" : "5432",
+    "db_name" : "ADD_DB_NAME",
+    "db_user" : "ADD_YOUR_LOGIN",
+    "db_pswd" : "ADD_YOU_PASSWORD"
+  }
+}

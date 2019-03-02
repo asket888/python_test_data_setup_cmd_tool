@@ -1,0 +1,22 @@
+# IDE #
+.idea/*
+__pycache__/
+
+
+# Compiled source #
+__init__.py
+*.pyc
+
+
+# Reporting and logs #
+*.json
+*.png
+*.log
+
+
+# Configuration files
+config.json
+
+
+# OS generated files #
+.DS_Store
